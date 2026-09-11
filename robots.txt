@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pratyushmurarka-lgtm.github.io/snippets-rnt48n/sitemap.xml
